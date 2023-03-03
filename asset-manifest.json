@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-evening/static/css/main.6c743c21.css",
+    "main.js": "/react-evening/static/js/main.2724a236.js",
+    "index.html": "/react-evening/index.html",
+    "main.6c743c21.css.map": "/react-evening/static/css/main.6c743c21.css.map",
+    "main.2724a236.js.map": "/react-evening/static/js/main.2724a236.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c743c21.css",
+    "static/js/main.2724a236.js"
+  ]
+}
