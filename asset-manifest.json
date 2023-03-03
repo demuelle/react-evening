@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-evening/static/css/main.c2cab247.css",
-    "main.js": "/react-evening/static/js/main.1dbf664d.js",
+    "main.js": "/react-evening/static/js/main.04f9c32b.js",
     "index.html": "/react-evening/index.html",
     "main.c2cab247.css.map": "/react-evening/static/css/main.c2cab247.css.map",
-    "main.1dbf664d.js.map": "/react-evening/static/js/main.1dbf664d.js.map"
+    "main.04f9c32b.js.map": "/react-evening/static/js/main.04f9c32b.js.map"
   },
   "entrypoints": [
     "static/css/main.c2cab247.css",
-    "static/js/main.1dbf664d.js"
+    "static/js/main.04f9c32b.js"
   ]
 }
